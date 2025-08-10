@@ -19,7 +19,7 @@ export default function AboutPage() {
           <li className="flex justify-between"><span>Wed</span><span>{hours.wed}</span></li>
           <li className="flex justify-between"><span>Thu</span><span>{hours.thu}</span></li>
           <li className="flex justify-between"><span>Fri</span><span>{hours.fri}</span></li>
-          <li className="flex justify_between"><span>Sat</span><span>{hours.sat}</span></li>
+          <li className="flex justify-between"><span>Sat</span><span>{hours.sat}</span></li>
           <li className="flex justify-between"><span>Sun</span><span>{hours.sun}</span></li>
         </ul>
       </section>
@@ -31,7 +31,7 @@ export default function AboutPage() {
           <a href={about.maps_url} className="underline" target="_blank">Open in Google Maps</a>
         </p>
         <div className="mt-3 flex flex-wrap gap-3">
-          <a className="btn btn-primary" href="mailto:kalamers1995@gmail.com">Reserve by email</a>
+          <a className="btn btn-primary" href={"mailto:"+about.reservation_email}>Reserve by email</a>
           <a className="btn btn-ghost" href={about.whatsapp_url} target="_blank">WhatsApp group</a>
           <a className="btn btn-ghost" href={about.instagram} target="_blank">Instagram</a>
           <a className="btn btn-ghost" href={about.facebook} target="_blank">Facebook</a>
