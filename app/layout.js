@@ -2,6 +2,7 @@ import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import MobileBottomBar from "@/components/MobileBottomBar";
+import { Suspense } from "react";
 
 export const metadata = {
   title: "World's End Bar",
@@ -12,7 +13,9 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body>
-        <Header />
+        <Suspense fallback={null}>
+          <Header />
+        </Suspense>
         <main className="container pt-6">{children}</main>
         <Footer />
         <MobileBottomBar />
@@ -20,3 +23,4 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
+
