@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2025-08-06",
+    "title_en": "Karaoke Night",
+    "title_ka": "კარაოკეს ღამე",
+    "time": "21:00–close",
+    "desc_en": "Free karaoke from 9 PM until close — bring your friends or make new ones on stage.",
+    "desc_ka": "უფასო კარაოკე 21:00-დან დახურვამდე — წამოიყვანეთ მეგობრები ან სცენაზე ახალი გაიცანით."
+  },
+  {
+    "date": "2025-08-08",
+    "title_en": "Singles Party",
+    "title_ka": "სინგლზ პარტი",
+    "time": "",
+    "desc_en": "An evening made for meeting new people, with fun activities to break the ice.",
+    "desc_ka": "ღამე, რომელიც შექმნილია ახალი ადამიანების გასაცნობად, გასართობი აქტივობებითა და სასიამოვნო გარემოთი."
+  },
+  {
+    "date": "2025-08-10",
+    "title_en": "Stand-up Open Mic in English",
+    "title_ka": "სტენდაპ ო픈 მაჭი ინგლისურად",
+    "time": "",
+    "desc_en": "Professional and amateur comedians from different countries perform twice a week.",
+    "desc_ka": "პროფესიონალი და დამწყები კომიკოსები სხვადასხვა ქვეყნიდან გამოდიან სცენაზე კვირაში ორჯერ."
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "short_en": "You’re surrounded by good people, holding a tasty drink, and a great soundtrack is playing in the background — what else could you possibly need before the World’s End?",
+  "short_ka": "თქვენ გარშემორტყმული ხართ კარგი ხალხით, ხელში გემრიელი სასმელი გაქვთ და ფონზე შესანიშნავი მუსიკა უკრავს — რა შეიძლება კიდევ დაგჭირდეთ მსოფლიოს დასასრულამდე?",
+  "long_en": "World’s End is a bar where everyone can feel at home. We offer plenty of entertainment for our guests, always with nothing but positive vibes. Here, you can meet fascinating people from all over the world as well as the most welcoming locals.\nStep into Tbilisi’s home of Cthulhu to connect with like-minded souls and enjoy a few delicious drinks! Check out our schedule so you don’t miss the next amazing event.",
+  "long_ka": "World’s End არის ბარი, სადაც ყველას შეუძლია თავი იგრძნოს როგორც სახლში. ჩვენ გთავაზობთ უამრავ გასართობს нашим სტუმრებისთვის და მხოლოდ პოზიტიურ ვიბრას. აქ შეგიძლიათ შეხვდეთ საინტერესო ადამიანებს მთელი მსოფლიოდან, ასევე ყველაზე გულთბილ ადგილობრივებს.\nეწვიეთ თბილისში კთულჰუს სახლს, რათა იპოვოთ თანამოაზრეები და დატკბეთ რამდენიმე გემრიელი სასმელით! იხილეთ ჩვენი განრიგი, რომ არ გამოტოვოთ მომდევნო შესანიშნავი ღონისძიება.",
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "19:00–01:00",
+    "thu": "19:00–01:00",
+    "fri": "19:00–02:00",
+    "sat": "19:00–02:00",
+    "sun": "18:00–00:00"
+  },
+  "address": "Tbilisi, Sh. Dadiani st., 7",
+  "maps_url": "https://maps.app.goo.gl/D4dKpLgxdh9Ez16g9",
+  "whatsapp_url": "https://chat.whatsapp.com/C7uLKkTsCiwFRpAVESuN51",
+  "instagram": "https://www.instagram.com/worlds.end.tbilisi",
+  "facebook": "https://www.facebook.com/worlds.end.tbilisi",
+  "reservation_email": "kalamers1995@gmail.com",
+  "hero_image": "/hero.jpg"
+}

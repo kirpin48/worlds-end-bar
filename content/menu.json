@@ -1,0 +1,394 @@
+{
+  "cocktails": [
+    {
+      "name_en": "Jagerbomb / Cherry Bomb",
+      "desc_en": "Jägermeister with Energy Drink or Cherry Juice",
+      "price": 12
+    },
+    {
+      "name_en": "Peach Dreams",
+      "desc_en": "Vodka / Raspberry / Peach Juice",
+      "price": 12
+    },
+    {
+      "name_en": "Green Day",
+      "desc_en": "Vodka / Basil / Cucumber / Lemon / Soda",
+      "price": 14
+    },
+    {
+      "name_en": "Stairway to Heaven",
+      "desc_en": "Vodka / Sprite / Lemon / Blue Curacao",
+      "price": 14
+    },
+    {
+      "name_en": "Summer Breeze",
+      "desc_en": "Vodka / Orange & Pineapple / Passion fruit & Ginger twist",
+      "price": 14
+    },
+    {
+      "name_en": "Dai Dai My Darling",
+      "desc_en": "Daiquiri with Berries/Watermelon/Mango",
+      "price": 14
+    },
+    {
+      "name_en": "Wayward Son",
+      "desc_en": "Havana Rum 3YO / Lemon Juice / Ginger Twist",
+      "price": 16
+    },
+    {
+      "name_en": "Rock’n’Cola - Rum or Whisky",
+      "desc_en": "Havana Rum 3YO or Jack Daniel’s + Coke",
+      "price": 16
+    },
+    {
+      "name_en": "Pumpkin Whisky Smash",
+      "desc_en": "Scotch / Spiced Pumpkin Syrup / Angostura",
+      "price": 16
+    },
+    {
+      "name_en": "Bloody Mary / Bloody Maria",
+      "desc_en": "Vodka or Tequila / Tomato / Spices",
+      "price": 16
+    },
+    {
+      "name_en": "Smells Like Gin Spirit",
+      "desc_en": "Gin / Schweppes / Lemon (+Flavor +2 GEL)",
+      "price": 16
+    },
+    {
+      "name_en": "White Russian",
+      "desc_en": "Vodka / Homemade Coffee Liquor / Heavy Cream",
+      "price": 16
+    },
+    {
+      "name_en": "Moscow Mule",
+      "desc_en": "Vodka / Lemon / Soda / Ginger Syrup",
+      "price": 16
+    },
+    {
+      "name_en": "Comfortably Numb",
+      "desc_en": "Jameson / Lemon / Ginger & Honey twist",
+      "price": 16
+    },
+    {
+      "name_en": "Amaretto / Vodka / Whisky / Gin Sour",
+      "desc_en": "Base + Lemon / Sugar",
+      "price": 16
+    },
+    {
+      "name_en": "Pink Floyd",
+      "desc_en": "Gin / Watermelon / Lemon / Sprite or Schweppes",
+      "price": 16
+    },
+    {
+      "name_en": "Orange Sabbath",
+      "desc_en": "Gin / Aperol / Coffee Liquor",
+      "price": 16
+    },
+    {
+      "name_en": "Call of Cthulhu",
+      "desc_en": "Tequila / Blue Curacao / Orange Juice",
+      "price": 16
+    },
+    {
+      "name_en": "T.N.T.",
+      "desc_en": "Tequila / Blueberry & Ginger Syrup / Schweppes",
+      "price": 16
+    },
+    {
+      "name_en": "Zombie",
+      "desc_en": "Havana 3YO / Sailor Jerry / Pineapple / Lemon",
+      "price": 18
+    },
+    {
+      "name_en": "Poison",
+      "desc_en": "Havana 3YO / Coconut / Blue Curacao / Pineapple",
+      "price": 18
+    },
+    {
+      "name_en": "Aperol Spritz",
+      "desc_en": "Aperol / Schweppes",
+      "price": 18
+    },
+    {
+      "name_en": "Deep Purple",
+      "desc_en": "Vodka / Rum / Gin / Tequila / Sprite / Blue Curacao / Grenadine",
+      "price": 18
+    },
+    {
+      "name_en": "Mermaid’s Call L",
+      "desc_en": "Vodka/Gin/Rum/Tequila/Triple Sec/Green Melon/Sprite",
+      "price": 20
+    },
+    {
+      "name_en": "Mermaid’s Call XL",
+      "desc_en": "Vodka/Gin/Rum/Tequila/Triple Sec/Green Melon/Sprite",
+      "price": 24
+    }
+  ],
+  "softs": [
+    {
+      "name_en": "Basil Cucumber Lemonade",
+      "price": 6
+    },
+    {
+      "name_en": "Virgin Summer Breeze",
+      "price": 6
+    },
+    {
+      "name_en": "Ginger Ale (33cl)",
+      "price": 9
+    },
+    {
+      "name_en": "Water MTIS (0.5L)",
+      "price": 9
+    },
+    {
+      "name_en": "Nabeghlavi (0.5L)",
+      "price": 9
+    },
+    {
+      "name_en": "Coke / Coke Zero / Sprite (33cl)",
+      "price": 5
+    },
+    {
+      "name_en": "Schweppes (33cl)",
+      "price": 5
+    },
+    {
+      "name_en": "Juices (Orange/Pineapple/Cherry/Tomato/Peach)",
+      "price": 5
+    },
+    {
+      "name_en": "Burn Energy Drink (25cl)",
+      "price": 6
+    },
+    {
+      "name_en": "Espresso / Americano",
+      "price": 5
+    },
+    {
+      "name_en": "Tea (Black/Green)",
+      "price": 5
+    }
+  ],
+  "snacks": [
+    {
+      "name_en": "Chips / Doritos / Salty Peanuts",
+      "price": 6
+    },
+    {
+      "name_en": "Flavored Peanuts",
+      "price": 8
+    },
+    {
+      "name_en": "Chicken Jerky",
+      "price": 15
+    }
+  ],
+  "whisky": [
+    {
+      "name_en": "J & B (5cl)",
+      "price": 10
+    },
+    {
+      "name_en": "John Jameson (5cl)",
+      "price": 12
+    },
+    {
+      "name_en": "Jack Daniel’s (5cl)",
+      "price": 15
+    },
+    {
+      "name_en": "Monkey Shoulder (5cl)",
+      "price": 18
+    },
+    {
+      "name_en": "Glenmorangie 10 YO (5cl)",
+      "price": 25
+    }
+  ],
+  "spirits": [
+    {
+      "name_en": "Havana Rum 3YO (4cl)",
+      "price": 10
+    },
+    {
+      "name_en": "Spiced Rum (4cl)",
+      "price": 10
+    },
+    {
+      "name_en": "Kraken Spiced Rum (4cl)",
+      "price": 14
+    },
+    {
+      "name_en": "Disaronno (5cl)",
+      "price": 12
+    },
+    {
+      "name_en": "Gin (4cl)",
+      "price": 10
+    },
+    {
+      "name_en": "Tequila (4cl)",
+      "price": 10
+    },
+    {
+      "name_en": "Baileys (10cl)",
+      "price": 16
+    },
+    {
+      "name_en": "Vodka (5cl)",
+      "price": 7
+    }
+  ],
+  "draught_beer": [
+    {
+      "name_en": "Lager 0.4L",
+      "price": 6
+    },
+    {
+      "name_en": "Stout 0.2/0.4L",
+      "price": "5 / 10"
+    },
+    {
+      "name_en": "APA 0.2/0.4L",
+      "price": "5 / 10"
+    }
+  ],
+  "shots": [
+    {
+      "name_en": "House vodka Special (4cl = 3cl Vodka + World’s End Flavor)",
+      "price": 6
+    },
+    {
+      "name_en": "Simple & Efficient",
+      "price": 7
+    },
+    {
+      "name_en": "Baby Guinness",
+      "desc_en": "Coffee Liquor / Baileys",
+      "price": 8
+    },
+    {
+      "name_en": "B-52",
+      "desc_en": "Amaretto / Coffee Liquor / Baileys",
+      "price": 8
+    },
+    {
+      "name_en": "Tequila BOOM!",
+      "desc_en": "Tequila / Schweppes",
+      "price": 8
+    },
+    {
+      "name_en": "Twist and Shout",
+      "desc_en": "Whiskey / Tequila / Tabasco",
+      "price": 8
+    },
+    {
+      "name_en": "Under the sea",
+      "desc_en": "Tequila / Triple Sec / Blue Curacao",
+      "price": 8
+    },
+    {
+      "name_en": "Fireball Cinnamon Whisky",
+      "price": 8
+    },
+    {
+      "name_en": "Apple Jim Beam",
+      "price": 8
+    },
+    {
+      "name_en": "Chuck Norris",
+      "desc_en": "Vodka / Berry Twist / Tabasco",
+      "price": 8
+    },
+    {
+      "name_en": "Pure Blood",
+      "desc_en": "Vodka / Tomato Juice / Spices",
+      "price": 8
+    },
+    {
+      "name_en": "Crazy Diamond (min 4)",
+      "desc_en": "Baileys / Banana Liquor / Blue Curacao",
+      "price": 8
+    },
+    {
+      "name_en": "Don’t Stop Me Now",
+      "desc_en": "Vodka / Coffee Liquor / Lemon Juice",
+      "price": 8
+    },
+    {
+      "name_en": "Jumpstarter",
+      "desc_en": "Homemade Coffee liqueur – vodka based",
+      "price": 8
+    },
+    {
+      "name_en": "Shot flavors add-ons",
+      "desc_en": "Raspberry, Cherry, Banana, Cinnamon, Lavender, Tropical, Honey, Watermelon, Kiwi, Blueberry, Lychee, Pumpkin, Coconut, Ginger, Lemon Drop",
+      "price": ""
+    }
+  ],
+  "in_bottle": [
+    {
+      "name_en": "Corona (0.33L – Pale Lager)",
+      "price": 12
+    },
+    {
+      "name_en": "Seasonal Craft beer (ask our staff)",
+      "price": 11
+    }
+  ],
+  "beer_cocktails": [
+    {
+      "name_en": "Dagon",
+      "desc_en": "Lager Beer / Energy Drink / Cinnamon",
+      "price": 12
+    },
+    {
+      "name_en": "The Leap",
+      "desc_en": "Lager Beer / Gin / Honey / Lemon",
+      "price": 15
+    },
+    {
+      "name_en": "Bitter End",
+      "desc_en": "Lager Beer / Whisky / Lemon",
+      "price": 15
+    },
+    {
+      "name_en": "Velvet Stout",
+      "desc_en": "Sweet Stout / Berry Twist",
+      "price": 12
+    },
+    {
+      "name_en": "Coronarita Rum",
+      "desc_en": "Corona Beer / Havana 3yo / Lemon",
+      "price": 24
+    },
+    {
+      "name_en": "Coronarita Tequila",
+      "desc_en": "Corona Beer / Tequila / Triple Sec",
+      "price": 24
+    }
+  ],
+  "wine": {
+    "badagoni": {
+      "kinds": [
+        "White Dry",
+        "White Semi-Sweet",
+        "Red Dry",
+        "Red Semi-Sweet"
+      ],
+      "prices": {
+        "glass_15cl": 8,
+        "jar_50cl": 20,
+        "bottle_75cl": 30
+      }
+    },
+    "john_lemon": {
+      "desc": "White Wine / Lemon / Soda",
+      "glass_11cl": 6,
+      "jar_50cl": 20
+    }
+  }
+}
